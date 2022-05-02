@@ -1,2 +1,4 @@
 notes.py
 .venv
+.pytest_cache
+.vscode
